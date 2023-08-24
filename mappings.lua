@@ -33,7 +33,7 @@ maps.n["<leader>bD"] = {
 
 -- Session management
 maps.n["<leader>s"] = { desc = get_icon("Session", 1, true) .. "Session" }
-maps.n["<leader>S"] = nil
+maps.n["<leader>S"] = false
 if is_available "neovim-session-manager" then
   maps.n["<leader>sl"] = { "<cmd>SessionManager! load_last_session<cr>", desc = "Load last session" }
   maps.n["<leader>ss"] = { "<cmd>SessionManager! save_current_session<cr>", desc = "Save this session" }
@@ -41,11 +41,11 @@ if is_available "neovim-session-manager" then
   maps.n["<leader>sf"] = { "<cmd>SessionManager! load_session<cr>", desc = "Search sessions" }
   maps.n["<leader>s."] =
     { "<cmd>SessionManager! load_current_dir_session<cr>", desc = "Load current directory session" }
-  maps.n["<leader>Sl"] = nil
-  maps.n["<leader>Ss"] = nil
-  maps.n["<leader>Sd"] = nil
-  maps.n["<leader>Sf"] = nil
-  maps.n["<leader>S."] = nil
+  maps.n["<leader>Sl"] = false
+  maps.n["<leader>Ss"] = false
+  maps.n["<leader>Sd"] = false
+  maps.n["<leader>Sf"] = false
+  maps.n["<leader>S."] = false
 end
 if is_available "resession.nvim" then
   local resession = require "resession"
@@ -58,12 +58,12 @@ if is_available "resession.nvim" then
     function() resession.load(vim.fn.getcwd(), { dir = "dirsession" }) end,
     desc = "Load current directory session",
   }
-  maps.n["<leader>Sl"] = nil
-  maps.n["<leader>Ss"] = nil
-  maps.n["<leader>St"] = nil
-  maps.n["<leader>Sd"] = nil
-  maps.n["<leader>Sf"] = nil
-  maps.n["<leader>S."] = nil
+  maps.n["<leader>Sl"] = false
+  maps.n["<leader>Ss"] = false
+  maps.n["<leader>St"] = false
+  maps.n["<leader>Sd"] = false
+  maps.n["<leader>Sf"] = false
+  maps.n["<leader>S."] = false
 end
 
 -- setting a mapping to false will disable it
