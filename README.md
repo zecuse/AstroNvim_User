@@ -29,7 +29,6 @@ nvim
 
 - LuaSnip 
 - aerial.nvim 
-- alpha-nvim 
 - astrotheme 
 - better-escape.nvim 
 - cmp-buffer 
@@ -69,3 +68,7 @@ nvim
 - promise-async 
 - toggleterm.nvim 
 - which-key.nvim 
+
+## Modified AstroNvim plugins
+
+- alpha-nvim 
