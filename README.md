@@ -24,3 +24,6 @@ git clone https://github.com/zecuse/AstroNvim_User ~/.config/nvim/lua/user
 ```shell
 nvim
 ```
+
+## Unmodified AstroNvim plugins
+
