@@ -27,3 +27,45 @@ nvim
 
 ## Unmodified AstroNvim plugins
 
+- LuaSnip 
+- aerial.nvim 
+- alpha-nvim 
+- astrotheme 
+- better-escape.nvim 
+- cmp-buffer 
+- cmp-dap 
+- cmp-nvim-lsp 
+- cmp-path 
+- cmp_luasnip 
+- friendly-snippets 
+- gitsigns.nvim 
+- guess-indent.nvim 
+- heirline.nvim 
+- indent-blankline.nvim 
+- lazy.nvim 
+- lspkind.nvim 
+- mason-lspconfig.nvim 
+- mason-null-ls.nvim 
+- mason-nvim-dap.nvim 
+- mason.nvim 
+- neo-tree.nvim 
+- neoconf.nvim 
+- neovim-session-manager 
+- nui.nvim 
+- null-ls.nvim 
+- nvim-autopairs 
+- nvim-cmp 
+- nvim-colorizer.lua 
+- nvim-dap 
+- nvim-dap-ui 
+- nvim-lspconfig 
+- nvim-treesitter 
+- nvim-treesitter-textobjects 
+- nvim-ts-autotag 
+- nvim-ts-context-commentstring 
+- nvim-ufo 
+- nvim-web-devicons 
+- plenary.nvim 
+- promise-async 
+- toggleterm.nvim 
+- which-key.nvim 
