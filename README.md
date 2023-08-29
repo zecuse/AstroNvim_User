@@ -25,7 +25,7 @@ git clone https://github.com/zecuse/AstroNvim_User ~/.config/nvim/lua/user
 nvim
 ```
 
-### Plugins
+## Plugins
 
 ### Added plugins
 
