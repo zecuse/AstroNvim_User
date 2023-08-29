@@ -32,19 +32,19 @@ nvim
 - [leap.nvim](https://github.com/ggandor/leap.nvim)
 <details>
 <summary>leap.lua</summary>
-https://github.com/zecuse/AstroNvim_User/blob/5afa0028e8e292c212457d19f0cfcc26d1e902d1/plugins/leap.lua
+https://github.com/zecuse/AstroNvim_User/blob/b1641c7307ef41d495b38c088fd811c90076887c/plugins/leap.lua#L1-L8
 </details>
 
 - [quick-scope](https://github.com/unblevable/quick-scope)
 <details>
 <summary>quick-scope.lua</summary>
-https://github.com/zecuse/AstroNvim_User/blob/5afa0028e8e292c212457d19f0cfcc26d1e902d1/plugins/quickscope.lua
+https://github.com/zecuse/AstroNvim_User/blob/b1641c7307ef41d495b38c088fd811c90076887c/plugins/quick-scope.lua#L1-L8
 </details>
 
 - [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim)
 <details>
 <summary>markdown-preview.lua</summary>
-https://github.com/zecuse/AstroNvim_User/blob/5afa0028e8e292c212457d19f0cfcc26d1e902d1/plugins/markdown-preview.lua
+https://github.com/zecuse/AstroNvim_User/blob/b1641c7307ef41d495b38c088fd811c90076887c/plugins/markdown-preview.lua#L1-L7
 </details>
 
 ### Modified AstroNvim plugins
