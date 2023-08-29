@@ -25,7 +25,36 @@ git clone https://github.com/zecuse/AstroNvim_User ~/.config/nvim/lua/user
 nvim
 ```
 
-## Unmodified AstroNvim plugins
+### Plugins
+
+### Added plugins
+
+- [leap.nvim](https://github.com/ggandor/leap.nvim)
+<details>
+<summary>leap.lua</summary>
+https://github.com/zecuse/AstroNvim_User/blob/5afa0028e8e292c212457d19f0cfcc26d1e902d1/plugins/leap.lua
+</details>
+
+- [quick-scope](https://github.com/unblevable/quick-scope)
+<details>
+<summary>quick-scope.lua</summary>
+https://github.com/zecuse/AstroNvim_User/blob/5afa0028e8e292c212457d19f0cfcc26d1e902d1/plugins/quickscope.lua
+</details>
+
+- [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim)
+<details>
+<summary>markdown-preview.lua</summary>
+https://github.com/zecuse/AstroNvim_User/blob/5afa0028e8e292c212457d19f0cfcc26d1e902d1/plugins/markdown-preview.lua
+</details>
+
+### Modified AstroNvim plugins
+
+- [alpha-nvim](https://github.com/goolord/alpha-nvim)
+    - Updated displayed buttons, see resession.
+- [resession.nvim](https://github.com/stevearc/resession.nvim)
+    - Changed key mappings to lowercase s.
+
+### Unmodified AstroNvim plugins
 
 - [Comment.nvim](https://github.com/numToStr/Comment.nvim)
 - [LuaSnip](https://github.com/L3MON4D3/LuaSnip)
@@ -79,15 +108,3 @@ nvim
 - [which-key.nvim](https://github.com/folke/which-key.nvim)
 - [nvim-window-picker](https://github.com/s1n7ax/nvim-window-picker)
 
-## Modified AstroNvim plugins
-
-- [alpha-nvim](https://github.com/goolord/alpha-nvim)
-    - Updated displayed buttons, see resession.
-- [resession.nvim](https://github.com/stevearc/resession.nvim)
-    - Changed key mappings to lowercase s.
-
-## Added plugins
-
-- [leap.nvim](https://github.com/ggandor/leap.nvim)
-- [quick-scope](https://github.com/unblevable/quick-scope)
-- [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim)
