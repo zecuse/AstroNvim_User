@@ -56,6 +56,8 @@ https://github.com/zecuse/AstroNvim_User/blob/b1641c7307ef41d495b38c088fd811c900
 
 ### Unmodified AstroNvim plugins
 
+<details>
+<summary>See all</summary>
 - [Comment.nvim](https://github.com/numToStr/Comment.nvim)
 - [LuaSnip](https://github.com/L3MON4D3/LuaSnip)
 - [SchemaStore.nvim](https://github.com/b0o/SchemaStore.nvim)
@@ -107,4 +109,5 @@ https://github.com/zecuse/AstroNvim_User/blob/b1641c7307ef41d495b38c088fd811c900
 - [toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim)
 - [which-key.nvim](https://github.com/folke/which-key.nvim)
 - [nvim-window-picker](https://github.com/s1n7ax/nvim-window-picker)
+</details>
 
