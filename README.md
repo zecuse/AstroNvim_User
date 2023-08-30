@@ -47,6 +47,12 @@ https://github.com/zecuse/AstroNvim_User/blob/b1641c7307ef41d495b38c088fd811c900
 https://github.com/zecuse/AstroNvim_User/blob/b1641c7307ef41d495b38c088fd811c90076887c/plugins/markdown-preview.lua#L1-L7
 </details>
 
+- [nvim-surround](https://github.com/kylechui/nvim-surround)
+<details>
+<summary>nvim-surround.lua</summary>
+https://github.com/zecuse/AstroNvim_User/blob/58c802a9f9e6ad6afd847e0cf4a0762eb841673c/plugins/nvim-surround.lua#L16-L20
+</details>
+
 ### Modified AstroNvim plugins
 
 - [alpha-nvim](https://github.com/goolord/alpha-nvim)
