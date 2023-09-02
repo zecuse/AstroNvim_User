@@ -8,11 +8,11 @@
 -- s = standard surround
 -- S = visual mode surround and new line surround
 -- Options:
--- t = HTML-like tag
--- f = function call
+-- t = HTML-like tag, e.g. <div>...</div>
+-- f = function call, e.g. name(...)
 -- <motion> = surrounds based on motion result
 -- <surround> = selects the surround char to modify
--- Chars = the char to surround with
+-- char = the char to surround with
 return {
   "kylechui/nvim-surround",
   event = "VeryLazy",
